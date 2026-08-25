@@ -1,0 +1,5 @@
+# Core
+websockets>=13
+
+# Optional: live microphone input (--mic)
+# sounddevice>=0.4
